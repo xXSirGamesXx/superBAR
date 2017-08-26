@@ -1,7 +1,7 @@
 name: superBAR
 main: FaigerSYS\superBAR\superBAR
 version: 1.6.2
-api: [2.0.0]
+api: [3.0.0-ALPHA7]
 load: POSTWORLD
 author: FaigerSYS
 description: "Just good and customizable HUD"
